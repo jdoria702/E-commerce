@@ -1,3 +1,5 @@
+package main.java.dao;
+
 import java.sql.*;
 
 public class CustomerDAO {
